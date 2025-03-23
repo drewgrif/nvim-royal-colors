@@ -19,7 +19,7 @@ A custom Neovim colorscheme + lualine theme inspired by the built-in **Royal** i
 
 ```lua
 {
-  'yourname/nvim-royal-colors',
+  'drewgrif/nvim-royal-colors',
   config = function()
     require('royal').setup()
   end,
